@@ -103,21 +103,3 @@ Bachelor of Computer Technology (B.C. Tech) | 2016 – 2025
 
 ---
 
-## 🔧 How to Use This as Your GitHub Profile
-
-1. Go to GitHub and create a **new repository** named exactly **`waiyan1999`** (your username).
-2. Add this `README.md` to that repository.
-3. Commit and push — GitHub will show this README on your profile page.
-
-```bash
-# Example
-mkdir waiyan1999 && cd waiyan1999
-printf "%s" "<paste README content here>" > README.md
-git init && git add README.md && git commit -m "feat: add profile readme"
-git branch -M main
-git remote add origin git@github.com:waiyan1999/waiyan1999.git
-git push -u origin main
-```
-
----
-
